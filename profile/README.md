@@ -57,6 +57,37 @@ We believe technology should **enhance** the work‑field - not distract from it
 Our goal is to multiply productivity, strengthen market resilience, and empower people through intuitive, accessible tools.
 
 ---
+## 🧰 Tech Stack
+
+**🎨 Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+
+**🛠️ Backend**
+
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js"/>
+
+**🗄️ Database**
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+**🔌 Hardware / IoT**
+
+<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/SIMCom-FF6600?logo=simcard&logoColor=white" alt="SIMCom IoT Module"/>
+
+**🧩 Tools & Deployment**
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel"/>
+
+---
 
 # 👥 About the Founders  
 
