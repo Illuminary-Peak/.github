@@ -80,7 +80,8 @@ Our goal is to multiply productivity, strengthen market resilience, and empower 
       <img src="https://github.com/Illuminary-Peak/web-app/blob/main/src/assets/images/harold-profile.jpg?raw=true" width="140" style="border-radius: 8px;" alt="Jay Harold Abejar"/><br/>
       <strong>Jay Harold Mars Abejar</strong><br/>
       Founder <br/> Entrepreneur<br/>
-      <a href="https://jayharoldabejar.vercel.app/">Portfolio</a>
+      <!--<a href="https://jayharoldabejar.vercel.app/">Portfolio</a>-->
+      <a href="https://www.facebook.com/jayharroldmars.abejar">Portfolio</a>
     </td>
     <td align="center">
       <img src="https://github.com/Illuminary-Peak/web-app/blob/main/src/assets/images/jayharron-profile.jpg?raw=true" width="140" style="border-radius: 8px;" alt="Jayharron Mar Abejar"/><br/>
