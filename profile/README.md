@@ -72,22 +72,26 @@ Our goal is to multiply productivity, strengthen market resilience, and empower 
 
 # 👥 About the Founders  
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center">
       <img src="https://github.com/Illuminary-Peak/web-app/blob/main/src/assets/images/harold-profile.jpg?raw=true" width="140" style="border-radius: 8px;" alt="Jay Harold Abejar"/><br/>
-      <strong>Jay Harold Abejar</strong><br/>
-      Founder / Entrepreneur<br/>
+      <strong>Jay Harold Mars Abejar</strong><br/>
+      Founder <br/> Entrepreneur<br/>
       <a href="https://jayharoldabejar.vercel.app/">Portfolio</a>
     </td>
     <td align="center">
       <img src="https://github.com/Illuminary-Peak/web-app/blob/main/src/assets/images/jayharron-profile.jpg?raw=true" width="140" style="border-radius: 8px;" alt="Jayharron Mar Abejar"/><br/>
       <strong>Jayharron Mar Abejar</strong><br/>
-      Co‑Founder / Software Engineer<br/>
+      Co‑Founder <br/>Software Engineer<br/>
       <a href="https://jayharronabejar.vercel.app/">Portfolio</a>
     </td>
   </tr>
 </table>
+
+</div>
 
 Their shared passion, youthful drive, and relentless pursuit of innovation continue to transform Illuminary Peak into a rising force in the tech industry.
 
