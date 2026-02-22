@@ -70,9 +70,9 @@ Our goal is to multiply productivity, strengthen market resilience, and empower 
 
 ---
 
-# 👥 About the Founders  
-
 <div align="center">
+
+# 👥 About the Founders  
 
 <table>
   <tr>
