@@ -3,4 +3,4 @@
 </p>
 
 <h1 align="center">🌄 Illuminary Peak</h1>
-<p align="center"><strong>Engineering the Future of the Philippines</strong></p>
+<p align="center"><strong>We make mobile and web games, plus SaaS stuff.</strong></p>
