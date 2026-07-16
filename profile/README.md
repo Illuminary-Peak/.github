@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Illuminary-Peak/web-app/blob/main/src/assets/images/logo-transparent.png?raw=true" width="180" alt="Illuminary Peak Logo"/>
+  <img src="https://avatars.githubusercontent.com/u/259235313?s=200&v=4" width="180" alt="Illuminary Peak Logo"/>
 </p>
 
 <h1 align="center">🌄 Illuminary Peak</h1>
