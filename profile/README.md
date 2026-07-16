@@ -3,4 +3,4 @@
 </p>
 
 <h1 align="center">Illuminary Peak</h1>
-<p align="center"><strong>We make mobile and web games, plus SaaS stuff.</strong></p>
+<p align="center"><strong>Software, apps and digital experiences engineered for what's next, from first idea to global launch.</strong></p>
